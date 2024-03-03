@@ -12,6 +12,7 @@ describe("Signup Page Tests", () => {
     };
 
     const invalidUserData = {
+        
         invalidUsername: 'invalid!username',
         invalidEmail: 'invalidemail',
         weakPassword: 'weak'
